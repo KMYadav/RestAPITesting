@@ -31,3 +31,9 @@ QUery Parameter is used to sort/filter the resources.
 QUery parameters are identified with ?""
 https://wwww.amazon.com/orders?sort_by=2/20/2022
 
+Headers/Cookies:
+Headers represent the meta-data associated with the API request and response. In layman terms, we are sending Additional details to API to process our request.
+Example : Authorization details
+
+Request URL can be constructed as below
+BaseURL/resoucre/(Query/Path)Parameters
